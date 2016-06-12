@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Noob Application</string>
-    <string name="fondongcut">D</string>
-    <string name="fondongsuay">F</string>
-    <string name="pundor">dong</string>
-    <string name="fondong">fondong</string>
-    <string name="pun">ฝนดอง</string>
+    <string name="fondongcut">kuy</string>
+    <string name="fondongsuay">hee</string>
+    <string name="pundor">pun hee</string>
+    <string name="fondong">pun kuy</string>
+    <string name="pun">ปุ้นหัวดอ</string>
 
 </resources>
