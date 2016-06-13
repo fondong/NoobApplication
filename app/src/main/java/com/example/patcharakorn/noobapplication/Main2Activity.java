@@ -31,19 +31,14 @@ public class Main2Activity extends AppCompatActivity {
 
         tv2.setText(inp);
 
-        //button2.setOnClickListener(new View.OnClickListener() {
-            //@Override
-            //public void onClick(View v) {
-                //tv2.setText(inp);
-            //}
-        //});
+
 
         button3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(getApplicationContext(), Main3Activity.class);
                 startActivityForResult(i, 123);
-                //tv2.setText(inp);
+
 
             }
         });
